@@ -1,4 +1,4 @@
-package com.practice.date200513;
+package com.practice_self.date200513;
 
 public class Ex02 {
 
